@@ -41,9 +41,8 @@ const currentPage = (() => {
         setTimeout(() => {
             content.classList.add('anim');
             menu;
-        }, 5); 
+        }, 1); 
     }
-
 })();
 
 
